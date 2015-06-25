@@ -2,7 +2,7 @@
 #include <stdlib.h>
 #include <math.h>
 
-#include "moment.h"
+#include "cmoment.h"
 
 int main(int argc, const char *argv[]){
     if (argc > 1){
