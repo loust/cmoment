@@ -1,5 +1,5 @@
-#ifndef MOMENT_C
-#define MOMENT_C
+#ifndef CMOMENT_C
+#define CMOMENT_C
 #include <stdio.h>
 #include <math.h>
 //#include <tgmath.h>

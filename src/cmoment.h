@@ -1,5 +1,5 @@
-#ifndef MOMENT_H
-#define MOMENT_H
+#ifndef CMOMENT_H
+#define CMOMENT_H
 
 void displayHelp();
 float torques(float,float,float);
