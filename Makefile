@@ -1,4 +1,4 @@
-program_NAME := moment
+program_NAME := cmoment
 program_SRC_DIR := ./src
 program_BUILD_DIR := ./bin
 program_C_SRCS := $(wildcard $(program_SRC_DIR)/*.c)

@@ -6,7 +6,7 @@
 
 void displayHelp(){
     printf("Moment\n\n \
-moment  [-t: DISP-VECTOR, FORCE-VECTOR, THETA] | \
+cmoment  [-t: DISP-VECTOR, FORCE-VECTOR, THETA] | \
 [-t: DISP-VECTOR, FORCE-VECTOR]\n \
         [-m: MASS, VELOCITY]\n \
         [-h]\n \
